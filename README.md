@@ -1,4 +1,4 @@
-# Coulomb's Law Calculator
+# Coulomb's Law Calculator Built With React.js
 
 ### Calculates electrostatic force based on Coulomb's Law.
 
