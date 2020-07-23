@@ -42,6 +42,7 @@ function App() {
   return (
     <div className="App">
       <h1>Coulomb's Law Calculator</h1>
+      <h4>Created By: Chase Helton</h4>
       <br />
       <p>
         Opposite charges attract and like charges repel. This is because all charged particles exert forces on each other.
